@@ -1,4 +1,4 @@
-package demos
+package demos.android.button.press.and.release.demo
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
